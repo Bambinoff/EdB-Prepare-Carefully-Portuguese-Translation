@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>EdB Prepare Carefully (Tradução Português)</name>
+    <author>Bambino</author>
+    <supportedVersions>
+      <li>1.0</li>
+	  <li>1.1</li>
+    </supportedVersions>
+	<packageId>Bambino.TradPrepareCarefully</packageId>
+	 <modDependencies>
+        <li>
+            <packageId>EdB.PrepareCarefully</packageId>
+            <displayName>EdB Prepare Carefully</displayName>
+            <steamWorkshopUrl>steam://url/CommunityFilePage/735106432</steamWorkshopUrl>
+        </li>
+    </modDependencies>
+    <loadAfter>
+        <li>EdB.PrepareCarefully</li>
+    </loadAfter>
+    <description>Adiciona uma tradução em português ao mod "EdB Prepare Carefully" criado por EdB.
+ Compativel com <b>PortugueseBrazilian (Português Brasileiro)</b> e <b>Portuguese (Português Europeu)</b>
+<b>Atenção</b> Esse mod não inclui o mod original, somente arquivos da tradução em português estão incluidos. 
+ EdB Prepare Carefully deve estar listado na lista de mods antes da tradução em português.
+</description>
+</ModMetaData>
